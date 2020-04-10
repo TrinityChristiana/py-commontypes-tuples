@@ -8,7 +8,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 
 ## Challenge: Zoo
 
-- [Code]
+- [Code](https://github.com/TrinityTerry/py-commontypes-tuples/blob/master/zoo.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-commontypes-tuples/blob/master/directions/directions.md#instructions)
 
 
